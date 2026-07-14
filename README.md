@@ -7,7 +7,3 @@ It contains a simple text file for domain verification and redirect configuratio
 ## Files
 
 - `Securite.txt` - Domain configuration file
-
-## Usage
-
-This repository is configured to redirect traffic from my domain to another location.
